@@ -1,0 +1,20 @@
+{
+  "name": "cse341-team-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohsaraho/cse341-Team-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohsaraho/cse341-Team-Projects/issues"
+  },
+  "homepage": "https://github.com/ohsaraho/cse341-Team-Projects#readme"
+}
